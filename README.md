@@ -1,2 +1,3 @@
 # vernal-pools
-Vernal pool modeling in Champlain Lowlands.
+
+A model to identify vernal pools with Earth Engine and Whitebox tools. 
